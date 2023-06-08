@@ -1,0 +1,10 @@
+Input:
+  filename: inputs/bok-new.json
+  sortkey: label
+
+Output:
+  filename: outputs/bok-new-sorted.json
+
+LogLevel:
+  level: DEBUG
+  
